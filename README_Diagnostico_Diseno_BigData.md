@@ -55,8 +55,8 @@ A partir de la demanda predicha se calcula un **stock proyectado** (stock actual
 
 ```bash
 # Clonar el repositorio
-git clone <URL-de-tu-repo>
-cd <nombre-repo>
+git clone <https://github.com/haroldrodriguezadm-png/Diagnostico_y_Diseno_de_una_Soluci-n_Big_Data_para_Prevencion_de_Quiebres_de_Stock/blob/main/README_Diagnostico_Diseno_BigData.md>
+cd <Diagnostico_y_Diseno_de_una_Soluci-n_Big_Data_para_Prevencion_de_Quiebres_de_Stock>
 
 # Instalar dependencias
 pip install pyspark pandas numpy matplotlib
@@ -84,4 +84,4 @@ Este notebook **no requiere un archivo de datos externo**: genera su propio data
 
 ## 👤 Autor
 
-Tu nombre — [LinkedIn](https://linkedin.com/in/tu-usuario) · [Portafolio](https://tu-portafolio.com)
+Harold Rodríguez B. — [LinkedIn](https://www.linkedin.com/in/harold-rodriguez-boisset/) 
