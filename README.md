@@ -1,0 +1,1 @@
+# Diagnostico_y_Diseno_de_una_Soluci-n_Big_Data_para_Prevencion_de_Quiebres_de_Stock
